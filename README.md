@@ -11,7 +11,6 @@
 | **Interactive Quiz** | JS, DOM | Interactive user logic |
 | **Landing Page** | Flexbox/Grid | Modern, responsive layout |
 
-### 🛠️ What I'm Learning
 - **Web Development:** Mastering HTML, CSS, and JavaScript.
 - **Version Control:** Getting hands-on experience with Git and GitHub.
 - **Personal Branding:** Building and hosting my personal site via GitHub Pages.
