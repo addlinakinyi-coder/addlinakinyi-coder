@@ -18,3 +18,21 @@
 
 ### 📫 Let's Connect
 - **GitHub:** [addlinakinyi-coder](https://github.com/addlinakinyi-coder)
+
+---
+
+## 📊 Task 3: Markdown Mastery
+
+> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+
+### 🛠️ Portfolio Progress
+| Feature | Repository | Status |
+| :--- | :--- | :--- |
+| Profile README | addlinakinyi-coder | ✅ Complete |
+| HTML Website | addlin-akinyi-website | 🌐 Live |
+| Markdown Basics | addlinakinyi-coder | 🚀 Mastered |
+
+### 🎯 What's Next?
+* [x] Complete Task 1 & 2
+* [x] Finish Markdown Mastery
+* [ ] Submit all links to Google Classroom
